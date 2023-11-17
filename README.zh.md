@@ -8,10 +8,22 @@
 
 一个简单的 Chrome 扩展。可以将纯文本编码为 Base64 文本，也可以将 Base64 文本解码为纯文本。
 
-## Screenshots
+## 截图
 
 <img src='screenshots/1.png' alt="screenshot">
 <img src='screenshots/2.png' alt="screenshot">
+
+## 请喝咖啡
+
+如果我的项目对你有帮助，可以请我喝杯咖啡。
+
+### 支付宝
+
+<img src="https://raw.githubusercontent.com/myvin/miniprogram/master/9181893579988_.pic_hd.jpg" width="300" /> <img src="https://raw.githubusercontent.com/myvin/miniprogram/master/9191893579989_.pic.jpg" width="300" />
+
+### 微信
+
+<img src="https://raw.githubusercontent.com/myvin/miniprogram/master/9201893579990_.pic_hd.jpg" width="300" />
 
 ## License
 

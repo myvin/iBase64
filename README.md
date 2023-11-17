@@ -13,6 +13,20 @@ A simple and minimalistic Chrome extension which can encode plain text to Base64
 <img src='screenshots/1.png' alt="screenshot">
 <img src='screenshots/2.png' alt="screenshot">
 
+## Buy Me a Coffee
+
+### BTC
+
+``` copy
+3NvpQfHYZtLUtRajGbPdNFnK8in3vyvNqx
+```
+
+### ETH
+
+``` copy
+0x889408D0A04a1ef32c914A6398f955b83f3554a2
+```
+
 ## License
 
 [GPLv3](https://www.gnu.org/licenses/gpl-3.0.html)
