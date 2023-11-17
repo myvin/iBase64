@@ -13,6 +13,10 @@ A simple and minimalistic Chrome extension which can encode plain text to Base64
 <img src='screenshots/1.png' alt="screenshot">
 <img src='screenshots/2.png' alt="screenshot">
 
+## How to Use
+
+Right click on the selected text to choose `Base64 encode/decode "SELECTED TEXT"`. And the encoded/decoded text will be copied to clipboard. You can paste to where you need.
+
 ## Buy Me a Coffee
 
 ### BTC
