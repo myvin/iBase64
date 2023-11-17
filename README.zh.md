@@ -1,8 +1,8 @@
 # iBase64
 
-[中文](README.zh.md) - English
+[English](README.md) - 中文
 
-Encode plain text to Base64 text. Decode Base64 text to plain text.
+将纯文本编码为 Base64 文本。将 Base64 文本解码为纯文本
 
 <p align='center'>
     <img src='src/images/icons/128.png' alt="iBase64 logo">
