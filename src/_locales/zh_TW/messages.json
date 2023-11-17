@@ -1,0 +1,17 @@
+{
+  "contextMenusTitle": {
+    "message": "使用 Base64 编解码 \"%s\""
+  },
+  "success": {
+    "message": "成功"
+  },
+  "error": {
+    "message": "錯誤"
+  },
+  "copiedToClipboard": {
+    "message": "已複製到剪切板"
+  },
+  "retrytoSelect": {
+    "message": "請重新選擇"
+  }
+}

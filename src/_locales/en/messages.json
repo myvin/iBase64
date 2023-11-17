@@ -1,0 +1,17 @@
+{
+  "contextMenusTitle": {
+    "message": "Base64 encode/decode \"%s\""
+  },
+  "success": {
+    "message": "Success"
+  },
+  "error": {
+    "message": "Error"
+  },
+  "copiedToClipboard": {
+    "message": "Copied to clipboard"
+  },
+  "retrytoSelect": {
+    "message": "Retry to select"
+  }
+}
