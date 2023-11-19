@@ -13,6 +13,14 @@
 <img src='screenshots/1.png' alt="screenshot">
 <img src='screenshots/2.png' alt="screenshot">
 
+## 如何安装
+
+* 在 [Release](https://github.com/myvin/iBase64/releases) 页面下载 `iBase64.zip` 并解压
+* 转到 **chrome://extensions/**
+* 在右上角，开启 **开发者模式**
+* 点击 **加载已解压的扩展程序**
+* 找到并选择扩展程序文件夹 `iBase64`
+
 ## 如何使用
 
 在选中的文本上右键选择 `Base64 encode/decode "选中的文本"`，编码/解码后的结果就会复制到剪切板上。

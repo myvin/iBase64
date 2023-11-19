@@ -13,6 +13,14 @@ A simple and minimalistic Chrome extension which can encode plain text to Base64
 <img src='screenshots/1.png' alt="screenshot">
 <img src='screenshots/2.png' alt="screenshot">
 
+## How to install
+
+* Download `iBase64.zip` from [Release](https://github.com/myvin/iBase64/releases) and unzip it
+* Go to **chrome://extensions/**
+* At the top right, turn on **Developer mode**
+* Click **Load unpacked**
+* Find and select extension folder `iBase64`
+
 ## How to Use
 
 Right click on the selected text to choose `Base64 encode/decode "SELECTED TEXT"`. And the encoded/decoded text will be copied to clipboard. You can paste wherever you need.
