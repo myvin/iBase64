@@ -15,9 +15,9 @@ A simple and minimalistic Chrome extension which can encode plain text to Base64
 
 ## How to Use
 
-Right click on the selected text to choose `Base64 encode/decode "SELECTED TEXT"`. And the encoded/decoded text will be copied to clipboard. You can paste to where you need.
+Right click on the selected text to choose `Base64 encode/decode "SELECTED TEXT"`. And the encoded/decoded text will be copied to clipboard. You can paste wherever you need.
 
-## Buy Me a Coffee
+## :coffee: Buy Me a Coffee
 
 ### BTC
 
