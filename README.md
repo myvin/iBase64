@@ -15,6 +15,12 @@ A simple and minimalistic Chrome extension which can encode plain text to Base64
 
 ## How to install
 
+### Chrome Web Store
+
+Install in [Chrome Web Store](https://chromewebstore.google.com/detail/ibase64/jahlbjgpdcfndhodaajbngjadeagefnp).
+
+### Load an unpacked extension
+
 * Download `iBase64.zip` from [Release](https://github.com/myvin/iBase64/releases) and unzip it
 * Go to **chrome://extensions/**
 * At the top right, turn on **Developer mode**

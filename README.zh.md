@@ -15,6 +15,12 @@
 
 ## 如何安装
 
+### Chrome 应用商店
+
+使用 [Chrome 应用商店](https://chromewebstore.google.com/detail/ibase64/jahlbjgpdcfndhodaajbngjadeagefnp) 安装。
+
+### 加载已解压的扩展程序
+
 * 在 [Release](https://github.com/myvin/iBase64/releases) 页面下载 `iBase64.zip` 并解压
 * 转到 **chrome://extensions/**
 * 在右上角，开启 **开发者模式**
